@@ -1,0 +1,101 @@
+task_id,task_description,category,priority,deadline,assigned_to,workload
+1,Update privacy policy,Bug,Medium,2025-06-02,Alice,5
+2,Design new dashboard layout,Bug,High,2025-06-04,Alice,2
+3,Refactor backend code,Bug,High,2025-05-29,Bob,5
+4,Prepare monthly financial report,Documentation,Medium,2025-05-31,Charlie,3
+5,Test payment gateway integration,Documentation,High,2025-05-27,Charlie,4
+6,Setup CI/CD pipeline,Documentation,Medium,2025-06-03,Alice,3
+7,Write user documentation,Documentation,Low,2025-06-03,Charlie,2
+8,Prepare monthly financial report,Bug,High,2025-05-28,Bob,1
+9,Analyze traffic data,Bug,Medium,2025-06-02,Bob,5
+10,Write user documentation,Bug,Medium,2025-05-29,Alice,1
+11,Fix login button bug,Bug,High,2025-05-29,Alice,3
+12,Create new signup form,Bug,High,2025-05-29,Charlie,1
+13,Test payment gateway integration,Bug,Medium,2025-05-28,Charlie,5
+14,Prepare monthly financial report,Bug,Medium,2025-06-02,Alice,2
+15,Refactor backend code,Bug,Medium,2025-06-01,Alice,4
+16,Prepare monthly financial report,Feature,Low,2025-06-02,Charlie,5
+17,Refactor backend code,Feature,Medium,2025-06-03,Charlie,2
+18,Update privacy policy,Feature,Medium,2025-05-27,Alice,4
+19,Fix login button bug,Documentation,High,2025-06-03,Bob,2
+20,Prepare monthly financial report,Feature,Low,2025-06-03,Charlie,4
+21,Fix login button bug,Bug,Medium,2025-06-04,Bob,3
+22,Update privacy policy,Bug,Medium,2025-06-02,Charlie,4
+23,Refactor backend code,Bug,Medium,2025-05-29,Bob,4
+24,Prepare monthly financial report,Bug,Medium,2025-06-02,Charlie,3
+25,Refactor backend code,Documentation,Medium,2025-06-02,Bob,1
+26,Analyze traffic data,Bug,Low,2025-05-31,Bob,5
+27,Create new signup form,Documentation,Low,2025-05-28,Bob,5
+28,Write user documentation,Documentation,Medium,2025-05-28,Bob,1
+29,Setup CI/CD pipeline,Bug,Low,2025-06-02,Bob,4
+30,Write user documentation,Bug,Medium,2025-05-28,Charlie,2
+31,Update privacy policy,Bug,Medium,2025-05-31,Alice,1
+32,Update privacy policy,Feature,Medium,2025-06-04,Alice,4
+33,Test payment gateway integration,Documentation,Low,2025-06-04,Charlie,5
+34,Prepare monthly financial report,Bug,Medium,2025-05-28,Alice,3
+35,Update privacy policy,Documentation,High,2025-06-02,Alice,5
+36,Setup CI/CD pipeline,Feature,Medium,2025-06-05,Bob,5
+37,Analyze traffic data,Feature,High,2025-06-05,Bob,1
+38,Prepare monthly financial report,Bug,Medium,2025-06-02,Alice,5
+39,Setup CI/CD pipeline,Feature,Medium,2025-05-28,Charlie,2
+40,Update privacy policy,Documentation,Medium,2025-05-28,Bob,2
+41,Analyze traffic data,Documentation,Medium,2025-06-04,Alice,3
+42,Write user documentation,Feature,High,2025-06-05,Charlie,4
+43,Test payment gateway integration,Feature,Low,2025-05-29,Charlie,1
+44,Refactor backend code,Bug,High,2025-06-03,Alice,3
+45,Create new signup form,Feature,Medium,2025-05-30,Alice,1
+46,Create new signup form,Documentation,High,2025-05-27,Charlie,1
+47,Analyze traffic data,Documentation,Low,2025-06-02,Bob,5
+48,Write user documentation,Bug,Medium,2025-06-05,Charlie,3
+49,Create new signup form,Bug,High,2025-06-05,Charlie,2
+50,Write user documentation,Documentation,High,2025-05-31,Charlie,3
+51,Refactor backend code,Documentation,Low,2025-05-27,Alice,1
+52,Analyze traffic data,Feature,High,2025-05-29,Bob,5
+53,Test payment gateway integration,Bug,Low,2025-05-30,Bob,1
+54,Analyze traffic data,Feature,High,2025-06-03,Charlie,5
+55,Write user documentation,Documentation,Medium,2025-05-29,Charlie,2
+56,Create new signup form,Documentation,Medium,2025-06-03,Alice,3
+57,Create new signup form,Feature,Medium,2025-05-30,Alice,3
+58,Design new dashboard layout,Documentation,Medium,2025-06-05,Charlie,2
+59,Design new dashboard layout,Documentation,Medium,2025-06-04,Bob,4
+60,Analyze traffic data,Bug,Medium,2025-05-29,Alice,4
+61,Design new dashboard layout,Feature,Medium,2025-06-04,Alice,5
+62,Write user documentation,Feature,Low,2025-06-05,Bob,3
+63,Create new signup form,Bug,Medium,2025-06-03,Charlie,4
+64,Create new signup form,Documentation,Medium,2025-06-01,Charlie,3
+65,Test payment gateway integration,Bug,High,2025-05-30,Alice,2
+66,Create new signup form,Documentation,Low,2025-06-04,Bob,3
+67,Write user documentation,Documentation,Medium,2025-05-27,Alice,5
+68,Create new signup form,Documentation,High,2025-05-28,Charlie,4
+69,Prepare monthly financial report,Documentation,Medium,2025-05-31,Alice,3
+70,Write user documentation,Feature,Medium,2025-05-28,Bob,2
+71,Analyze traffic data,Bug,Low,2025-06-03,Alice,4
+72,Write user documentation,Bug,Medium,2025-05-30,Charlie,5
+73,Create new signup form,Bug,Low,2025-05-30,Charlie,3
+74,Write user documentation,Feature,High,2025-06-04,Bob,4
+75,Prepare monthly financial report,Feature,Medium,2025-06-03,Alice,4
+76,Prepare monthly financial report,Documentation,Medium,2025-05-30,Charlie,3
+77,Analyze traffic data,Bug,Medium,2025-06-02,Alice,4
+78,Refactor backend code,Feature,Medium,2025-06-02,Bob,5
+79,Design new dashboard layout,Feature,Low,2025-06-04,Charlie,5
+80,Design new dashboard layout,Documentation,Low,2025-05-28,Charlie,1
+81,Fix login button bug,Feature,Medium,2025-05-27,Alice,2
+82,Update privacy policy,Feature,Medium,2025-05-29,Bob,5
+83,Setup CI/CD pipeline,Documentation,Low,2025-06-03,Bob,1
+84,Prepare monthly financial report,Feature,Medium,2025-06-01,Bob,1
+85,Fix login button bug,Documentation,Medium,2025-06-02,Bob,5
+86,Prepare monthly financial report,Bug,Low,2025-05-30,Alice,3
+87,Test payment gateway integration,Feature,Medium,2025-06-04,Bob,3
+88,Analyze traffic data,Bug,High,2025-05-30,Bob,3
+89,Test payment gateway integration,Feature,Medium,2025-06-05,Charlie,2
+90,Write user documentation,Feature,High,2025-05-31,Alice,1
+91,Test payment gateway integration,Bug,High,2025-05-29,Charlie,4
+92,Refactor backend code,Bug,Low,2025-06-05,Alice,2
+93,Write user documentation,Feature,Low,2025-05-30,Alice,4
+94,Analyze traffic data,Bug,Medium,2025-06-02,Charlie,3
+95,Analyze traffic data,Feature,Low,2025-06-03,Charlie,4
+96,Write user documentation,Bug,Medium,2025-06-02,Alice,3
+97,Write user documentation,Feature,Medium,2025-05-29,Alice,3
+98,Write user documentation,Documentation,Medium,2025-06-01,Charlie,4
+99,Setup CI/CD pipeline,Documentation,Medium,2025-06-03,Alice,4
+100,Fix login button bug,Feature,Low,2025-06-01,Charlie,5

@@ -1,0 +1,9 @@
+streamlit>=1.35.0
+pandas
+numpy
+matplotlib
+nltk
+scikit-learn
+xgboost
+sentence-transformers
+optuna
